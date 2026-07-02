@@ -12,10 +12,20 @@ and a README explaining the math.
 | Algorithm | Status | Upgrades over the textbook version |
 |---|---|---|
 | [Linear Regression](linear_regression/) | done | self-tuning via cross-validation (one-SE rule), prediction intervals + p-values (classical & bootstrap), ridge / lasso / elastic net, Huber loss (outlier-robust), polynomial features, closed-form + mini-batch gradient descent, early stopping |
-| Logistic Regression | planned | |
+| [Logistic Regression](logistic_regression/) | done | Newton/IRLS solver, multiclass softmax, class_weight for imbalance, Wald p-values + bootstrap, self-tuning CV, L1/L2/elastic net, polynomial boundaries, ROC-AUC/F1 from scratch |
 | K-Nearest Neighbors | planned | |
-| Decision Trees | planned | |
+| Naive Bayes | planned | |
+| Decision Tree | planned | |
+| Random Forest | planned | |
+| AdaBoost | planned | |
+| Gradient Boosting | planned | |
+| Support Vector Machine | planned | |
 | K-Means | planned | |
+| Gaussian Mixture (EM) | planned | |
+| DBSCAN | planned | |
+| Hierarchical Clustering | planned | |
+| PCA | planned | |
+| Neural Network (MLP) | planned | |
 
 ## Setup
 
